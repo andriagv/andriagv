@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andria Gvaramia</h1>
 <h3 align="center">iOS Developer & Mathematician & Entrepreneur & Camp leader </h3>
 
-- 👨‍💻 All of my projects are available at this web 🥁 (comming soon ...)
+- 👨‍💻 All of my projects are available at this web 🥁 [andria.life](https://andria.life/)
 
 - 📫 How to reach me [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gvaramiaandria1@gmail.com) 
 
