@@ -12,7 +12,7 @@ iOS developer and mathematics student. I mostly write Swift, plus Python for num
 
 ## Tools
 
-Swift, Python (OpenCV, MediaPipe, NumPy), C++ for Arduino/ESP32, Firebase, Git.
+Swift, Python (OpenCV, MediaPipe), C++ for Arduino/ESP32, Firebase, Git.
 
 ## Contact
 
