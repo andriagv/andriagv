@@ -1,6 +1,6 @@
 # Andria Gvaramia
 
-iOS developer and mathematics student. I mostly write Swift, plus Python for numerical work and computer vision experiments.
+Computer science student and developer. I build AI agents and computer vision projects in Python, and iOS apps in Swift.
 
 ## Projects
 
@@ -12,7 +12,11 @@ iOS developer and mathematics student. I mostly write Swift, plus Python for num
 
 ## Tools
 
-Swift, Python (OpenCV, MediaPipe), C++ for Arduino/ESP32, Firebase, Git.
+- **Languages:** Swift, Python, C++ (Arduino/ESP32), LaTeX
+- **AI / agents:** LangGraph, LangChain, Claude API, OpenCV, MediaPipe, Teachable Machine
+- **Data & math:** NumPy, pandas, scikit-learn, Matplotlib, Jupyter
+- **Mobile & backend:** Firebase, python-telegram-bot, Docker
+- **Other:** Git, Moodle and Google Drive integrations
 
 ## Contact
 
